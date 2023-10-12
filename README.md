@@ -2,9 +2,17 @@
 ## Sobre
  Este repositório tem como objetivo em estudar os jogos isométricos utilizando a biblioteca Pygame da linguagem.
 
+ ![snapshot do Jogo](./assets/snapshots/print01.png)
+
+
 ## Tecnologia Utilizadas
-- Python v3.10
+- Python v3.8.10
 - Pygame v2.5.2
+- Pyinstaller
+
+## Executáveis:
+[Versão Linux](/export/) </p>
+[Windows](/export/) </p>
 
 ## Desenvolvimento
 Para construir este programa em seu PC, utilize em seu terminal este comando git:
