@@ -2,6 +2,7 @@
 /lib/
 /include/
 /__pycache__/
+/export/build/
 
 pyvenv.cfg
 /src/setup.py
