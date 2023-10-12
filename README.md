@@ -10,9 +10,6 @@
 - Pygame v2.5.2
 - cx_Freeze v6.15
 
-## Executáveis:
-[Clique aqui para fazer o Download](/export/main) </p>
-
 ## Desenvolvimento
 Para construir este programa em seu PC, utilize em seu terminal este comando git:
 ```bash
