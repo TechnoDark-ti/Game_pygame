@@ -8,11 +8,10 @@
 ## Tecnologia Utilizadas
 - Python v3.8.10
 - Pygame v2.5.2
-- Pyinstaller
+- cx_Freeze v6.15
 
 ## Executáveis:
-[Versão Linux](/export/) </p>
-[Windows](/export/) </p>
+[Clique aqui para fazer o Download](/export/main) </p>
 
 ## Desenvolvimento
 Para construir este programa em seu PC, utilize em seu terminal este comando git:

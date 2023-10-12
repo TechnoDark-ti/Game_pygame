@@ -1,5 +1,7 @@
 /bin/
 /lib/
 /include/
+/__pycache__/
 
 pyvenv.cfg
+/src/setup.py
